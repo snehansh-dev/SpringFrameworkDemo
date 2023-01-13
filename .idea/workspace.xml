@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d6823dec-2156-4d34-842d-213f0e5f046e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/snehansh/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snehansh/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/snehansh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/snehansh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,6 +51,26 @@
     "last_opened_file_path": "D:/Java Learning/SpringBoot"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.snehansh.Main" />
+      <module name="SpringFrameworkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snehansh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
