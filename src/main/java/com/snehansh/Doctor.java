@@ -8,7 +8,7 @@ public class Doctor implements Staff{
     public String getQualification() {
         return qualification;
     }
-    
+
     public void setQualification(String qualification) {
         this.qualification = qualification;
     }
